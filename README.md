@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IT Bonheur</h1>
 <h3 align="center">A passionate software developer from Rwanda</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/259328436?v=4&size=64" alt="it-bonheur" /><br>IT Bonheur</p>
+<p align="left"> <img src="https://itbonheur.vercel.app/favicon.png" alt="it-bonheur" /><br>IT Bonheur</p>
 
 - 🔭 I’m currently working on [Turaburane](https://turaburane.vercel.app)
 
